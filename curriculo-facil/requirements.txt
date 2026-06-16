@@ -1,0 +1,6 @@
+Você confia no editor "tomoki1207"?
+A extensão vscode-pdf é publicada por tomoki1207. Esta é a primeira extensão que você está instalando deste fornecedor.
+
+ tomoki1207 é não verificado.
+
+Visual Studio Code tem controle sobre o comportamento de extensões de terceiros, incluindo como eles gerenciam seus dados pessoais. Continue somente se você confiar no editor.
